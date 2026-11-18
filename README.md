@@ -31,6 +31,11 @@ Data_Analytics_With_Python_Notes/
     └── lesson-07-machine-learning-ai.md
 ```
 
+
+## 📝 Handwritten originals
+
+The original handwritten notes (scanned, 46 pages) are in [`notes/handwritten/Data_Analytics_with_Python_handwritten.pdf`](notes/handwritten/Data_Analytics_with_Python_handwritten.pdf). The lesson files in `notes/` are typed transcriptions of these pages.
+
 ## 🛠 Tools Referenced in These Notes
 - Python
 - SQL
