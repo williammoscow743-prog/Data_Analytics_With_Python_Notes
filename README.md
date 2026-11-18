@@ -44,6 +44,17 @@ If the full scan does not display in GitHub's viewer, open these shorter parts (
 - [Pages 31–40](notes/handwritten/parts/Handwritten_part_04_pages_31-40.pdf)
 - [Pages 41–46](notes/handwritten/parts/Handwritten_part_05_pages_41-46.pdf)
 
+### Darker copy (easier to read)
+
+The darker copy has the same pages with the pencil contrast increased. The original scan is unchanged above.
+
+- [Full darker scan](notes/handwritten/Data_Analytics_with_Python_handwritten_darker.pdf)
+- [Pages 1–10](notes/handwritten/darker_parts/Handwritten_darker_part_01_pages_01-10.pdf)
+- [Pages 11–20](notes/handwritten/darker_parts/Handwritten_darker_part_02_pages_11-20.pdf)
+- [Pages 21–30](notes/handwritten/darker_parts/Handwritten_darker_part_03_pages_21-30.pdf)
+- [Pages 31–40](notes/handwritten/darker_parts/Handwritten_darker_part_04_pages_31-40.pdf)
+- [Pages 41–46](notes/handwritten/darker_parts/Handwritten_darker_part_05_pages_41-46.pdf)
+
 ## 🛠 Tools Referenced in These Notes
 - Python
 - SQL
